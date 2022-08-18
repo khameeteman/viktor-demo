@@ -1,0 +1,10 @@
+# viktor==13.3.0
+
+############
+# The requirements.txt file of a VIKTOR app should always start with "# viktor==X.X.X", to define what SDK version to
+# use. Notice the '#' in front of the viktor package name, which is obligatory since VIKTOR is not available on PyPI
+# and can therefore not be installed in the usual way. All other (optional) Python package dependencies can be added
+# below it the usual way (without the '#').
+#
+# For more information, see: https://docs.viktor.ai/docs/guides/fundamentals/requirements-file
+############

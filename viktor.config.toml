@@ -1,0 +1,4 @@
+# Various app settings can be defined in the viktor.config.toml file.
+# For more information, see: https://docs.viktor.ai/docs/guides/fundamentals/config-file
+app_type = 'simple'  # 'simple' | 'tree'
+welcome_text = 'welcome.md'  # dashboard welcome text

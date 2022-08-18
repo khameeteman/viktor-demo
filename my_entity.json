@@ -1,0 +1,32 @@
+{
+    "research": {
+      "data": {
+        "measurement": 50,
+        "location": {
+          "lat": 51.922313795535445,
+          "lon": 4.470045541951417
+        }
+      }
+    },
+    "design": {
+      "height": 3,
+      "label": "*LABEL*"
+    },
+    "calculate": {
+      "cases": [
+        {"volume": 0.2, "density": 1500, "norm": "A"},
+        {"volume": 0.35, "density": 2000, "norm": "B"},
+        {"volume": 0.5, "density": 2500, "norm": "C"}
+      ]
+    },
+    "report": {
+      "download": {
+        "authors": [
+          {"first_name": "John", "last_name": "Doe", "organization": "VIKTOR", "email": "john-doe@viktor.ai"},
+          {"first_name": "Jane", "last_name": "Doe", "organization": "VIKTOR", "email": "jane-doe@viktor.ai"}
+        ],
+        "date": "2022-01-02",
+        "remarks": "This VIKTOR demo is amazing!"
+      }
+    }
+  }
