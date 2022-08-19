@@ -1,7 +1,7 @@
 tasks:
   - name: VIKTOR
     init: |
-      curl -Lo viktor-cli 'https://sys.viktor.ai/api/v1/get-cli/?platform=linux&format=binary'
+      curl -Lo viktor-cli 'https://sys.viktor.ai/api/v1/get-cli/?platform=linux&format=binary&version=v0.23.0-rc3'
       chmod +x viktor-cli
       mv viktor-cli /workspace/viktor-cli
     command: |
